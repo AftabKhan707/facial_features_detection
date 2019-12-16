@@ -1,7 +1,7 @@
-# Facial-Features-Detection
+# Facial-Features-Detection-From-Scratch
 Facial Features Detection
 
-In this project the concept of transfer learning is used which means using the knowledge gained while solving one problem and applying it on a different related problem.
+In this project the concept of transfer learning is used which is using the knowledge gained while solving one problem and applying it on a different related problem.
 
 So i used the knowledge gained by the model facenet_keras.h5(which encodes the given image into 128x1 dimension) to detect the facial features/keypoints.
 
@@ -17,7 +17,9 @@ changes made to the above model while keeping the weights same:
                                         output shape: (388,1) ((x,y) coordinates of 194 keypoints)
                                         purpose : to detect facial features/keypoints
                                      
-The layers with name block8,avgpool,Dropout were only allowed to train while the weights of other layer were kept same.the model was trained on the HELEN DATASET- http://www.ifp.illinois.edu/~vuongle2/helen/
+The layers with name block8,avgpool,Dropout were only allowed to train while the weights of other layer were kept same.
+
+The model was then trained on the HELEN DATASET- http://www.ifp.illinois.edu/~vuongle2/helen/
 
 For training the model:
                         
