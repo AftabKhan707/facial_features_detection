@@ -7,15 +7,15 @@ So i used the knowledge gained by the model facenet_keras.h5(which encodes the g
 
 specification of facenet_keras.h5 model :
 
-                                        input shape : (160x160x3)
-                                        output shape : (128x1)
-                                        purpose : to encode the given image into 128x1 dimension 
+                         input shape : (160x160x3)
+                         output shape : (128x1)
+                         purpose : to encode the given image into 128x1 dimension 
                                         
 changes made to the above model while keeping the weights same:
 
-                                        input shape : (200x200x3)
-                                        output shape: (388,1) ((x,y) coordinates of 194 keypoints)
-                                        purpose : to detect facial features/keypoints
+                         input shape : (200x200x3)
+                         output shape: (388,1) ((x,y) coordinates of 194 keypoints)
+                         purpose : to detect facial features/keypoints
                                      
 The layers with name block8,avgpool,Dropout were only allowed to train while the weights of other layer were kept same.
 
