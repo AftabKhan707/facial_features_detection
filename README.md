@@ -29,8 +29,14 @@ For training the model:
                          Loss function: mean_squared_error
                          No of epochs: 500
                          batch_size: 32
-                         results:can be seen in the provided result folder.
+                         
+ results:
        
-![test1](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/10.PNG)
+![test1](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/100.PNG)
+![test2](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/12.PNG)
+![test3](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/1000.PNG)
+![test4](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/Capture.PNG)
+
+
 
  THE TRAINED MODEL IS ALSO PROVIDED.
