@@ -30,4 +30,7 @@ For training the model:
                          No of epochs: 500
                          batch_size: 32
                          results:can be seen in the provided result folder.
+       
+![test1](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/10.PNG)
+
  THE TRAINED MODEL IS ALSO PROVIDED.
