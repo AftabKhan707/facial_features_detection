@@ -16,4 +16,16 @@ changes made to the above model while keeping the weights same:
                                         input shape : (200x200x3)
                                         output shape: (388,1) ((x,y) coordinates of 194 keypoints)
                                         purpose : to detect facial features/keypoints
- 
+                                     
+The layers with name block8,avgpool,Dropout were only allowed to train while the weights of other layer were kept same.the model was trained on the HELEN DATASET- http://www.ifp.illinois.edu/~vuongle2/helen/
+
+For training the model:
+                        
+                         training data size: 2000 images (all were converted to numpy array(img.npy))
+                         optimizer used : Adam Optimizer
+                         Learning Rate: 0.0001
+                         Loss function: mean_squared_error
+                         No of epochs: 500
+                         batch_size: 32
+                         results:can be seen in the provided result folder.
+ THE TRAINED MODEL IS ALSO PROVIDED.
