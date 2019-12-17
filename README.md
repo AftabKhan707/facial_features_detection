@@ -1,4 +1,4 @@
-# Facial-Features-Detection-From-Scratch
+# Facial-Features-Detection-From-Scratch(Using Transfer Learning)
 Facial Features Detection
 
 In this project the concept of **Transfer Learning** is used which is using the knowledge gained while solving one problem and applying it on a different related problem.
