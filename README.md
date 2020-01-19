@@ -9,7 +9,7 @@ So i used the knowledge gained by the model facenet_keras.h5(which encodes the g
 
 dataset used :  Helen Dataset 
 
-**Data preprocessing :** the available dataset consist of face images, each having a seperate .txt file consisting the 
+Data preprocessing : the available dataset consist of face images, each having a seperate .txt file consisting the 
 facial co-ordinates.
 
 The dataset is preprocessed which include resizing and storing the images and coordinates into .npy file.
