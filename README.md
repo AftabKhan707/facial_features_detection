@@ -5,6 +5,10 @@ In this project the concept of **Transfer Learning** is used which is using the 
 
 So i used the knowledge gained by the model facenet_keras.h5(which encodes the given image into 128x1 dimension) to detect the facial features/keypoints.
 
+**Data preprocessing :** the available dataset consist of face images, each having a seperate .txt file consisting the 
+facial co-ordinates.the dataset is preprocessed which include resizing and storing the images and coordinates into .npy file.
+
+The preprocessed data is available at : https://www.kaggle.com/yash88600/kernel75d7c60e9a 
 specification of facenet_keras.h5 model :
 
                          input shape : (160x160x3)
