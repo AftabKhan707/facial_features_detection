@@ -54,4 +54,4 @@ For training:
 
 ![test4] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/Capture.PNG)
 
-The trained is also provided
+The trained model is also provided
