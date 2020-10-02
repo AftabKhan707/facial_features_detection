@@ -18,6 +18,7 @@ The preprocessed data is available at : https://www.kaggle.com/yash88600/kernel7
 
 **MODEL**
 
+
 specification of facenet_keras.h5 model :
 
                          input shape : (160x160x3)
@@ -34,7 +35,7 @@ The layers with name block8,avgpool,Dropout were only allowed to train while the
 
 The model was then trained on the **HELEN DATASET**- http://www.ifp.illinois.edu/~vuongle2/helen/
 
-For training the model:
+For training:
                         
                          training data size: 2000 images (all were converted to numpy array(img.npy))
                          optimizer used : Adam Optimizer
@@ -45,14 +46,12 @@ For training the model:
                          
  **results:**
        
-![test1](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/100.PNG)
+![test1] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/100.PNG)
 
-![test2](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/12.PNG)
+![test2] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/12.PNG)
 
-![test3](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/1000.PNG)
+![test3] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/1000.PNG)
 
-![test4](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/Capture.PNG)
+![test4] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/Capture.PNG)
 
-
-
- NOTE: **THE TRAINED MODEL IS ALSO PROVIDED.**
+The trained model is also provided
