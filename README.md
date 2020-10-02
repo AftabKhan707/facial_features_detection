@@ -50,8 +50,8 @@ For training:
 
 ![test2](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/12.PNG)
 
-![test3] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/1000.PNG)
+![test3](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/1000.PNG)
 
-![test4] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/Capture.PNG)
+![test4](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/Capture.PNG)
 
-The trained model is also provided
+**Note: The trained model is also provided**
