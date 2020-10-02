@@ -46,9 +46,9 @@ For training:
                          
  **results:**
        
-![test1] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/100.PNG)
+![test1](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/100.PNG)
 
-![test2] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/12.PNG)
+![test2](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/12.PNG)
 
 ![test3] (https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/1000.PNG)
 
